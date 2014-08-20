@@ -1,0 +1,34 @@
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/hello_world"
+    android:textAlignment="textStart"
+    android:textColor="@android:color/holo_green_dark"
+    android:textSize="30sp" />
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="42dp"
+        android:background="@android:color/holo_red_dark"
+        android:fontFamily="Verdana"
+        android:gravity="right"
+        android:text="@string/m_str_textview2"
+        android:textAlignment="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_marginBottom="15dp"
+        android:onClick="loadUIHelper"
+        android:text="Button" />
