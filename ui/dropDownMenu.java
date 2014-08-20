@@ -16,11 +16,7 @@ butPopup.setOnClickListener(new View.OnClickListener() {
 	
 	@Override
 	public void onClick(View v) {
-		
-		TableLayout table = (TableLayout)findViewById(R.id.tableLayout1);
-		table.setBackgroundColor(0xFF00FF00);
-		table.setBackgroundColor(getResources().getColor(R.color.blue));
-		
+	
 		PopupMenu popup = new PopupMenu(Quizzer_MainActivity.this, butPopup);
 		popup.getMenuInflater().inflate(R.menu.popup_menu, popup.getMenu());
 		Toast.makeText(getApplicationContext(), "popup", Toast.LENGTH_SHORT).show();
