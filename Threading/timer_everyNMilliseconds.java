@@ -21,6 +21,5 @@
 		            });
 		        }
 		    };
-		    timer.schedule(doAsynchronousTask, 1000, 5000); 
-		    
+		    timer.schedule(doAsynchronousTask, 1000, 5000); //1 sec delay und dann alle 5 sec
 	}
