@@ -9,3 +9,4 @@ d
 //in onCreate aufrufen
 registerReceiver(bcrec, new IntentFilter("Alert"));
 
+asdf
