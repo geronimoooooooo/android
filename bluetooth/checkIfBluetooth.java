@@ -16,3 +16,7 @@ public boolean checkForBluetooth(){
 	}
 	return bluetoothSupportedFromDevice;
 }
+
+   private BluetoothAdapter myBluetoothAdapter;
+   private Set<BluetoothDevice> pairedDevices;
+	pairedDevices = myBluetoothAdapter.getBondedDevices();
