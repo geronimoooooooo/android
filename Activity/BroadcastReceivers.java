@@ -8,3 +8,4 @@ final BroadcastReceiver bcrec = new BroadcastReceiver() {
 
 //in onCreate aufrufen
 registerReceiver(bcrec, new IntentFilter("Alert"));
+
