@@ -25,3 +25,4 @@ registerReceiver(bcrec, new IntentFilter("Alert"));
 		    Toast.makeText(this, "Alarm set in " + i + " seconds",
 		        Toast.LENGTH_LONG).show();
 		  }
+
