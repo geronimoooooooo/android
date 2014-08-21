@@ -16,6 +16,5 @@
 			   text.setText("Status: Enabled");
 		   } else {   
 			   text.setText("Status: Disabled");
-		   }
-	   }
+		   }	   }
    }
