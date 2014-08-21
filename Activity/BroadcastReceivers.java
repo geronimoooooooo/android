@@ -5,7 +5,7 @@ final BroadcastReceiver bcrec = new BroadcastReceiver() {
 		Toast.makeText(context, content, Toast.LENGTH_SHORT).show();
 	}
 };
-
+d
 //in onCreate aufrufen
 registerReceiver(bcrec, new IntentFilter("Alert"));
 
