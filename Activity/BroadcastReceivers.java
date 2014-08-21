@@ -10,3 +10,4 @@ d
 registerReceiver(bcrec, new IntentFilter("Alert"));
 
 asdf
+dsaf
