@@ -1,4 +1,9 @@
-//erstellt eine listview und füllt diese mit paar Items
+   private BluetoothAdapter myBluetoothAdapter;
+   private Set<BluetoothDevice> pairedDevices;
+   private ListView myListView;
+   private ArrayAdapter<String> BTArrayAdapter;
+   
+   //erstellt eine listview und füllt diese mit paar Items
 
 	public void createItem(View v){
 //		Toast.makeText(getApplicationContext(), "This is button createItem", Toast.LENGTH_SHORT).show();
