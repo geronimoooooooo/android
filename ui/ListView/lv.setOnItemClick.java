@@ -9,10 +9,13 @@ import android.content.Context;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.MotionEvent;
 import android.view.View;
+import android.view.View.OnTouchListener;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
@@ -36,6 +39,17 @@ public class MainActivity extends Activity {
 				android.R.layout.simple_list_item_1, list);
 		listview.setAdapter(adapter);
 
+		listview.setOnTouchListener(new OnTouchListener() {
+			
+			@Override
+			public boolean onTouch(View v, MotionEvent event) {
+				if(event.getAction()==MotionEvent.ACTION_UP){
+					Toast.makeText(getApplicationContext(), "text", Toast.LENGTH_SHORT).show();
+					return true;
+				}
+				return false;
+			}
+		});
 		listview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
 			@Override
