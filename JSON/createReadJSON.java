@@ -12,8 +12,8 @@ http://developer.android.com/reference/org/json/JSONObject.html
 			jhash.put("0", "0 zero");
 			jhash.put("1", "1 uno");
 			
-			/*
-			{ jobj.toString(indent 2);
+			/*jobj.toString(indent 2);
+			{ 
 				"hash": {
 					"1": "1 uno",
 					"0": "0 zero"
