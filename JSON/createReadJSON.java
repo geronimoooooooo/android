@@ -13,7 +13,7 @@
 			jhash.put("1", "1 uno");
 			
 			/*
-			{
+			{ jobj.toString(indent 2);
 				"hash": {
 					"1": "1 uno",
 					"0": "0 zero"
