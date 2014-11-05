@@ -1,3 +1,7 @@
+//Project>app>src>main>assets>text.txt
+//create assets folder in main
+
+
 InputStream is = null;
         try {
             is = getResources().getAssets().open("text.txt");
