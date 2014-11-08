@@ -1,0 +1,18 @@
+{
+    "boss": "kargath",
+    "mode": "heroic",
+    "instance": "highmaul",
+    "role": "any",
+    "answers_hash": {
+        "0": "In einer Arena mit einer Tribüne.",
+        "1": "Auf einer Wiese.",
+        "2": "In einer großen Halle."
+    },
+    "question": "Wo findet der Kampf gegen Kargath statt?",
+    "answers_array": [
+        "In einer Arena mit einer Tribüne.",
+        "Auf einer Wiese.",
+        "In einer großen Halle."
+    ],
+    "answer_correct": 0
+}
