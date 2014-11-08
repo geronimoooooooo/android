@@ -3,12 +3,13 @@
     "mode": "heroic",
     "instance": "highmaul",
     "role": "any",
+    "theory_level": "easy",
+    "question": "Wo findet der Kampf gegen Kargath statt?",
     "answers_hash": {
         "0": "In einer Arena mit einer Tribüne.",
         "1": "Auf einer Wiese.",
         "2": "In einer großen Halle."
     },
-    "question": "Wo findet der Kampf gegen Kargath statt?",
     "answers_array": [
         "In einer Arena mit einer Tribüne.",
         "Auf einer Wiese.",
