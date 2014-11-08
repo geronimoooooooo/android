@@ -1,0 +1,26 @@
+{
+  "dungeon": {
+  
+  },
+  "raid": {
+    "heroic": {
+      "hc_kargath": {
+        "universal": "beginner",
+        "tank": "prepared",
+        "heal": "beginner",
+        "melee": "prepared",
+        "range": "beginner"
+      },
+      "butcher":{
+        "universal": "beginner",
+        "tank": "prepared",
+        "heal": "beginner",
+        "melee": "prepared",
+        "range": "beginner"
+      }
+    },
+    "mythic": {
+    
+    }
+  }
+}
