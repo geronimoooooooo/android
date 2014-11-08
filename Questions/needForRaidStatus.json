@@ -11,7 +11,7 @@
         "melee": "prepared",
         "range": "beginner"
       },
-      "butcher":{
+      "hc_butcher":{
         "universal": "beginner",
         "tank": "prepared",
         "heal": "beginner",
@@ -20,6 +20,19 @@
       }
     },
     "mythic": {
+      "m_kargath": {
+        "universal": "beginner",
+        "tank": "prepared",
+        "heal": "beginner",
+        "melee": "prepared",
+        "range": "beginner"
+      },
+      "m_butcher":{
+        "universal": "beginner",
+        "tank": "prepared",
+        "heal": "beginner",
+        "melee": "prepared",
+        "range": "beginner"
     
     }
   }
