@@ -4,6 +4,7 @@
     "instance": "highmaul, blackrock, 5erDungonA",
     "role": "any, tank, melee, range",
     "theory_level": "beginner, prepared, experienced",
+    "question_id":"id_hc_00001",
     "question": "Wo findet der Kampf gegen Kargath statt?",
     "answers_hash": {
         "0": "In einer Arena mit einer Tribüne.",
