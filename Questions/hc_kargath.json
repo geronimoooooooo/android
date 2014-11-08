@@ -24,17 +24,17 @@
     "instance": "highmaul",
     "role": "any",
     "theory_level": "easy",
-    "question": "Wo findet der Kampf gegen Kargath statt?",
+    "question": "Warum sollte man sich /range 10 bei Kargath verteilen?",
     "answers_hash": {
-        "0": "In einer Arena mit einer Tribüne.",
-        "1": "Auf einer Wiese.",
-        "2": "In einer großen Halle."
+        "0": "Weil Spieler, die zu nah bei einander stehen, den Boss buffen.",
+        "1": "Wegen Klingentanz. Man wird angechargt.",
+        "2": "Spieler, die zu nah bei einander stehen, spawnen adds."
     },
     "answers_array": [
-        "In einer Arena mit einer Tribüne.",
-        "Auf einer Wiese.",
-        "In einer großen Halle."
+        "Weil Spieler, die zu nah bei einander stehen, den Boss buffen.",
+        "Wegen Klingentanz. Man wird angechargt.",
+        "Spieler, die zu nah bei einander stehen, spawnen adds."
     ],
-    "answer_correct": 0
+    "answer_correct": 1
 }
 ]
