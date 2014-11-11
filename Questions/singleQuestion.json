@@ -2,7 +2,7 @@
     "boss": "kargath",
     "mode": "heroic",
     "instance": "highmaul",
-    "role": "universal",
+    "role": ["universal"],
     "theory_level": "beginner",
     "question_id":"id_hc_00001",
     "question": "Wo findet der Kampf gegen Kargath statt?",
