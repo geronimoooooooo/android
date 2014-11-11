@@ -9,14 +9,16 @@
         "tank": "prepared",
         "heal": "beginner",
         "melee": "prepared",
-        "range": "beginner"
+        "range": "beginner",
+        "nfr_points":[0,150,0,180,0]
       },
       "hc_butcher":{
         "universal": "beginner",
         "tank": "prepared",
         "heal": "beginner",
         "melee": "prepared",
-        "range": "beginner"
+        "range": "beginner",
+        "nfr_points":[0,0,0,0,0]
       }
     },
     "mythic": {
@@ -25,14 +27,16 @@
         "tank": "prepared",
         "heal": "beginner",
         "melee": "prepared",
-        "range": "beginner"
+        "range": "beginner",
+        "nfr_points":[0,0,0,0,0]
       },
       "m_butcher":{
         "universal": "beginner",
         "tank": "prepared",
         "heal": "beginner",
         "melee": "prepared",
-        "range": "beginner"
+        "range": "beginner",
+        "nfr_points":[0,0,0,0,0]
      }
     }
   }
