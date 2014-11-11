@@ -1,0 +1,6 @@
++ Eigene Klasse (nichts sonderbares) erstellen, welche die Member, die angezeigt werden sollen, beinhaltet
++ Eigene AdapterKlasse erstellen. public class TimeTrackerAdapter extends BaseAdapter {
+++ Die eigene Klasse(Objekte) in eine ArrayList abspeichern
+++ private ArrayList<TimeRecord> times = new ArrayList<TimeRecord>();
+++ getCount, getItem, getItemId, getView anpassen
++ In der MainActivity ein Objekt dieser AdapterKlasse erstellen; listView.setAdapter(timeTrackerAdapter);
