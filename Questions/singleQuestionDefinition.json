@@ -20,6 +20,6 @@
     "last_update":"2014-11-13T23:59:59Z"
 }
 
-beginner: 1
-prepared: 2
-experienced: 3
+beginner: 100
+prepared: 101-299
+experienced: 300-500
