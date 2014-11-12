@@ -1,4 +1,5 @@
 // http://stackoverflow.com/questions/2736389/how-to-pass-object-from-one-activity-to-another-in-android
+// http://www.stevenmarkford.com/passing-objects-between-android-activities/
 
 import import java.io.Serializable;
 public class Customer implements Serializable
