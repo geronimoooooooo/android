@@ -1,3 +1,5 @@
+private static final int REQUEST_ENABLE_BT = 1;
+
 public void enableBluetooth(View view) {
 	if (!myBluetoothAdapter.isEnabled()) {
 		Intent turnOnIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
