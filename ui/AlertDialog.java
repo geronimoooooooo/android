@@ -8,3 +8,5 @@ builder.setMessage(
                     // do things
                 }
             });
+AlertDialog alert = builder.create();
+alert.show();
