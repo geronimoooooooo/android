@@ -11,6 +11,7 @@ public void sendMessage(View view){
 	
       Intent intent = getIntent();
 	    String message = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
+	    String message2 = intent.getStringExtra("MyString");
 	    System.out.println(message);
 	    
 	    
