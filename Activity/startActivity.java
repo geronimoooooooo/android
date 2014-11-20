@@ -13,3 +13,11 @@
    String message = editText.getText().toString();
    intent.putExtra(EXTRA_MESSAGE, message);
    startActivity(intent);
+
+
+//Wenn man nicht mit dem Back-Button zur ersten Activity wieder zurück will
+//finish() nutzen
+  public void onClick(View v) {
+   startActivity(new Intent(getApplicationContext(), ActivityTwo.class));
+   finish();
+  }
