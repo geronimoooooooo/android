@@ -1,2 +1,6 @@
 http://www.vogella.com/tutorials/AndroidListView/article.html
 Listview with checkboxes: http://www.vogella.com/tutorials/AndroidListView/article.html#listviewselection
+
+
+Ein gutes Beispiel von 31 Tage:
+http://chrisrisner.com/31-Days-of-Android--Day-20%E2%80%93ListViews
