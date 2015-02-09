@@ -2,10 +2,10 @@ PvE
 + Raiden
 +++ highmaul
 ++++ hc
-+++++ kargath_hc
-+++++ butcher
++++++ kargath_hc.json
++++++ butcher_hc.json
 ++++ m
-+++++ kargath_m
++++++ kargath_m.json
 +++ blackrockFoundry
 +++ soo
 + CM
