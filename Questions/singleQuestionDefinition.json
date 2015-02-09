@@ -2,8 +2,7 @@
     "boss": "Kargath, Der Schlächter(Butcher)",
     "mode": "heroic, mythic",
     "instance": "highmaul, blackrock, 5erDungonA",
-    "role": ["universal","tank","melee","range"],
-    "theory_level": "beginner, prepared, experienced",
+    "role": ["universal","tank","melee","range", "heal"],
     "question_id":"id_hc_00001",
     "question": "Wo findet der Kampf gegen Kargath statt?",
     "answers_hash": {
