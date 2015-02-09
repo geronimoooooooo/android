@@ -1,12 +1,12 @@
 PvE
 + Raiden
-+++ hm
++++ highmaul
 ++++ hc
 +++++ kargath_hc
 +++++ butcher
 ++++ m
 +++++ kargath_m
-+++ brf
++++ blackrockFoundry
 +++ soo
 + CM
 
