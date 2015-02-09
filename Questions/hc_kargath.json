@@ -17,7 +17,9 @@
         "Auf einer Wiese.",
         "In einer großen Halle."
     ],
-    "answer_correct": 0
+    "answer_correct": 0,
+    "help_text": "Tips are for free",
+    "last_update":"2014-11-13T23:59:59Z"
 },
 {
     "boss": "kargath",
@@ -37,6 +39,8 @@
         "Wegen Klingentanz. Man wird angechargt.",
         "Spieler, die zu nah bei einander stehen, spawnen adds."
     ],
-    "answer_correct": 1
+    "answer_correct": 1,
+    "help_text": "Tips are for free",
+    "last_update":"2014-11-13T23:59:59Z"
 }
 ]
