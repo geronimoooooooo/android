@@ -4,8 +4,7 @@
     "mode": "heroic",
     "instance": "highmaul",
     "role": "universal",
-    "theory_level": "beginner",
-    "question_id":"id_hc_00001",
+    "question_id":"id_kargath_hc_00001",
     "question": "Wo findet der Kampf gegen Kargath statt?",
     "answers_hash": {
         "0": "In einer Arena mit einer Tribüne.",
@@ -26,8 +25,7 @@
     "mode": "heroic",
     "instance": "highmaul",
     "role": "universal",
-    "theory_level": "beginner",
-    "question_id":"id_hc_00002",
+    "question_id":"id_kargath_hc_00002",
     "question": "Warum sollte man sich /range 10 bei Kargath verteilen?",
     "answers_hash": {
         "0": "Weil Spieler, die zu nah bei einander stehen, den Boss buffen.",
