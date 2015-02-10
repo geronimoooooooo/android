@@ -10,14 +10,10 @@
         "1": "Auf einer Wiese.",
         "2": "In einer großen Halle."
     },
-    "answers_array": [
-        "In einer Arena mit einer Tribüne.",
-        "Auf einer Wiese.",
-        "In einer großen Halle."
-    ],
     "answer_correct": 0,
     "help_text": "Tips are for free",
-    "last_update":"2014-11-13T23:59:59Z"
+    "last_update":"2014-11-13T23:59:59Z",
+    "author":"playerName@Server"
 }
 
 beginner: 100
